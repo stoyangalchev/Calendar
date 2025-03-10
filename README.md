@@ -2,6 +2,11 @@
 
 Welcome to **Calendar App**! 🎉 A sleek and modern calendar application built with **React** and **Vite** to help you stay organized and productive. 🚀
 
+## Deployed 
+Here - - > [Calendar](https://calendar-eta-ten.vercel.app/)
+## 📷 Screenshots
+![Screenshot](./Screenshot.png)
+
 ## 🌟 Features
 
 ✅ **Beautiful UI** – A clean and responsive design for an enhanced user experience.  
@@ -47,8 +52,6 @@ npm run preview
 - 🏗 **ES Modules** – Modern JavaScript approach  
 - 🎨 **CSS** – Custom styling for an elegant look  
 
-## 📷 Screenshots
-![Screenshot](./Screenshot.png)
 
 
 ## 🏗 Future Enhancements

@@ -1,12 +1,70 @@
-# React + Vite
+# 📅 Calendar App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **Calendar App**! 🎉 A sleek and modern calendar application built with **React** and **Vite** to help you stay organized and productive. 🚀
 
-Currently, two official plugins are available:
+## 🌟 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+✅ **Beautiful UI** – A clean and responsive design for an enhanced user experience.  
+✅ **Event Management** – Add, edit, and delete events effortlessly.  
+✅ **Dynamic Navigation** – Navigate through months smoothly.  
+✅ **Fast & Lightweight** – Powered by **Vite** for lightning-fast performance.  
+✅ **Modern Tech Stack** – Built using **React 19** and **ES Modules**.
 
-## Expanding the ESLint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Follow these steps to set up and run the project locally:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/stoyangalchev/Calendar.git
+cd calendar-app
+```
+
+### 2️⃣ Install Dependencies
+```bash
+npm install
+```
+
+### 3️⃣ Start Development Server
+```bash
+npm run dev
+```
+
+### 4️⃣ Build for Production
+```bash
+npm run build
+```
+
+### 5️⃣ Preview Production Build
+```bash
+npm run preview
+```
+
+## 🛠 Tech Stack
+
+- ⚛ **React 19** – Frontend Framework  
+- ⚡ **Vite** – Fast Build Tool  
+- 🏗 **ES Modules** – Modern JavaScript approach  
+- 🎨 **CSS** – Custom styling for an elegant look  
+
+## 📷 Screenshots
+![Screenshot](./Screenshot.png)
+
+
+## 🏗 Future Enhancements
+
+🚀 **Dark Mode** – A sleek night-friendly theme.  
+📅 **Event Reminders** – Get notifications for upcoming events.  
+🔄 **Sync with Google Calendar** – Integrate with external calendars.  
+
+## 🤝 Contributing
+
+We welcome contributions! Feel free to **fork** the repo and submit **pull requests**. 🙌
+
+## 📄 License
+MIT 
+
+---
+
+Made with ❤️ by [Stoyan Galchev](https://github.com/stoyangalchev) ✨
+
